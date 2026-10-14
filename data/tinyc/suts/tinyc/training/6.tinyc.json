@@ -1,0 +1,496 @@
+[
+    {
+        "Position": 0,
+        "Value": "{",
+        "Deletion": {
+            "Left": 0,
+            "Right": 0
+        },
+        "Insertion": {
+            "Left": "\n ",
+            "Right": "\n; "
+        },
+        "Substitution": "{"
+    },
+    {
+        "Position": 1,
+        "Value": " ",
+        "Deletion": {
+            "Left": 1,
+            "Right": 1
+        },
+        "Insertion": {
+            "Left": "\n; ",
+            "Right": "\n; "
+        },
+        "Substitution": "\n; "
+    },
+    {
+        "Position": 2,
+        "Value": "i",
+        "Deletion": {
+            "Left": 0,
+            "Right": 0
+        },
+        "Insertion": {
+            "Left": "\n; ",
+            "Right": "\n "
+        },
+        "Substitution": "eqnvoxfkuzdtjlsibhwparycgm"
+    },
+    {
+        "Position": 3,
+        "Value": "=",
+        "Deletion": {
+            "Left": 0,
+            "Right": 0
+        },
+        "Insertion": {
+            "Left": "\n ",
+            "Right": "8597601243\n "
+        },
+        "Substitution": "+=-<;"
+    },
+    {
+        "Position": 4,
+        "Value": "7",
+        "Deletion": {
+            "Left": 0,
+            "Right": 0
+        },
+        "Insertion": {
+            "Left": "8597601243\n ",
+            "Right": "8597601243\n; "
+        },
+        "Substitution": "859e7q6nvoxf012k4u3zdtjlsibhwparycgm"
+    },
+    {
+        "Position": 5,
+        "Value": ";",
+        "Deletion": {
+            "Left": 0,
+            "Right": 0
+        },
+        "Insertion": {
+            "Left": "8597601243\n; ",
+            "Right": "\n; "
+        },
+        "Substitution": ";"
+    },
+    {
+        "Position": 6,
+        "Value": " ",
+        "Deletion": {
+            "Left": 1,
+            "Right": 1
+        },
+        "Insertion": {
+            "Left": "\n; ",
+            "Right": "\n; "
+        },
+        "Substitution": "\n; "
+    },
+    {
+        "Position": 7,
+        "Value": "i",
+        "Deletion": {
+            "Left": 0,
+            "Right": 0
+        },
+        "Insertion": {
+            "Left": "\n; ",
+            "Right": "None"
+        },
+        "Substitution": "i"
+    },
+    {
+        "Position": 8,
+        "Value": "f",
+        "Deletion": {
+            "Left": 0,
+            "Right": 0
+        },
+        "Insertion": {
+            "Left": "None",
+            "Right": "\n "
+        },
+        "Substitution": "f"
+    },
+    {
+        "Position": 9,
+        "Value": " ",
+        "Deletion": {
+            "Left": 1,
+            "Right": 1
+        },
+        "Insertion": {
+            "Left": "\n ",
+            "Right": "\n "
+        },
+        "Substitution": "\n "
+    },
+    {
+        "Position": 10,
+        "Value": "(",
+        "Deletion": {
+            "Left": 0,
+            "Right": 0
+        },
+        "Insertion": {
+            "Left": "\n ",
+            "Right": "\n "
+        },
+        "Substitution": "("
+    },
+    {
+        "Position": 11,
+        "Value": "i",
+        "Deletion": {
+            "Left": 0,
+            "Right": 0
+        },
+        "Insertion": {
+            "Left": "\n ",
+            "Right": "\n "
+        },
+        "Substitution": "859e7q6nvoxf012k4u3zdtjlsibhwparycgm"
+    },
+    {
+        "Position": 12,
+        "Value": "<",
+        "Deletion": {
+            "Left": 0,
+            "Right": 0
+        },
+        "Insertion": {
+            "Left": "\n ",
+            "Right": "8597601243\n "
+        },
+        "Substitution": "+=-<"
+    },
+    {
+        "Position": 13,
+        "Value": "5",
+        "Deletion": {
+            "Left": 0,
+            "Right": 0
+        },
+        "Insertion": {
+            "Left": "8597601243\n ",
+            "Right": "8597601243\n "
+        },
+        "Substitution": "859e7q6nvoxf012k4u3zdtjlsibhwparycgm"
+    },
+    {
+        "Position": 14,
+        "Value": ")",
+        "Deletion": {
+            "Left": 0,
+            "Right": 0
+        },
+        "Insertion": {
+            "Left": "8597601243\n ",
+            "Right": "\n; "
+        },
+        "Substitution": ")"
+    },
+    {
+        "Position": 15,
+        "Value": " ",
+        "Deletion": {
+            "Left": 1,
+            "Right": 1
+        },
+        "Insertion": {
+            "Left": "\n; ",
+            "Right": "\n; "
+        },
+        "Substitution": "\n; "
+    },
+    {
+        "Position": 16,
+        "Value": "x",
+        "Deletion": {
+            "Left": 0,
+            "Right": 0
+        },
+        "Insertion": {
+            "Left": "\n; ",
+            "Right": "\n "
+        },
+        "Substitution": "eqnvoxfkuzdtjlsibhwparycgm"
+    },
+    {
+        "Position": 17,
+        "Value": "=",
+        "Deletion": {
+            "Left": 0,
+            "Right": 0
+        },
+        "Insertion": {
+            "Left": "\n ",
+            "Right": "8597601243\n "
+        },
+        "Substitution": "+=-<;"
+    },
+    {
+        "Position": 18,
+        "Value": "1",
+        "Deletion": {
+            "Left": 0,
+            "Right": 0
+        },
+        "Insertion": {
+            "Left": "8597601243\n ",
+            "Right": "8597601243\n; "
+        },
+        "Substitution": "859e7q6nvoxf012k4u3zdtjlsibhwparycgm"
+    },
+    {
+        "Position": 19,
+        "Value": ";",
+        "Deletion": {
+            "Left": 0,
+            "Right": 0
+        },
+        "Insertion": {
+            "Left": "8597601243\n; ",
+            "Right": "\n; "
+        },
+        "Substitution": ";"
+    },
+    {
+        "Position": 20,
+        "Value": " ",
+        "Deletion": {
+            "Left": 1,
+            "Right": 1
+        },
+        "Insertion": {
+            "Left": "\n; ",
+            "Right": "\n; "
+        },
+        "Substitution": "\n; "
+    },
+    {
+        "Position": 21,
+        "Value": "i",
+        "Deletion": {
+            "Left": 0,
+            "Right": 0
+        },
+        "Insertion": {
+            "Left": "\n; ",
+            "Right": "None"
+        },
+        "Substitution": "i"
+    },
+    {
+        "Position": 22,
+        "Value": "f",
+        "Deletion": {
+            "Left": 0,
+            "Right": 0
+        },
+        "Insertion": {
+            "Left": "None",
+            "Right": "\n "
+        },
+        "Substitution": "f"
+    },
+    {
+        "Position": 23,
+        "Value": " ",
+        "Deletion": {
+            "Left": 1,
+            "Right": 1
+        },
+        "Insertion": {
+            "Left": "\n ",
+            "Right": "\n "
+        },
+        "Substitution": "\n "
+    },
+    {
+        "Position": 24,
+        "Value": "(",
+        "Deletion": {
+            "Left": 0,
+            "Right": 0
+        },
+        "Insertion": {
+            "Left": "\n ",
+            "Right": "\n "
+        },
+        "Substitution": "("
+    },
+    {
+        "Position": 25,
+        "Value": "i",
+        "Deletion": {
+            "Left": 0,
+            "Right": 0
+        },
+        "Insertion": {
+            "Left": "\n ",
+            "Right": "\n "
+        },
+        "Substitution": "859e7q6nvoxf012k4u3zdtjlsibhwparycgm"
+    },
+    {
+        "Position": 26,
+        "Value": "<",
+        "Deletion": {
+            "Left": 0,
+            "Right": 0
+        },
+        "Insertion": {
+            "Left": "\n ",
+            "Right": "8597601243\n "
+        },
+        "Substitution": "+=-<"
+    },
+    {
+        "Position": 27,
+        "Value": "1",
+        "Deletion": {
+            "Left": 1,
+            "Right": 1
+        },
+        "Insertion": {
+            "Left": "8597601243\n ",
+            "Right": "85976+01243-"
+        },
+        "Substitution": "8597601243\n "
+    },
+    {
+        "Position": 28,
+        "Value": "0",
+        "Deletion": {
+            "Left": 1,
+            "Right": 1
+        },
+        "Insertion": {
+            "Left": "85976+01243-",
+            "Right": "8597601243\n "
+        },
+        "Substitution": "8597601243\n "
+    },
+    {
+        "Position": 29,
+        "Value": ")",
+        "Deletion": {
+            "Left": 0,
+            "Right": 0
+        },
+        "Insertion": {
+            "Left": "8597601243\n ",
+            "Right": "\n; "
+        },
+        "Substitution": ")"
+    },
+    {
+        "Position": 30,
+        "Value": " ",
+        "Deletion": {
+            "Left": 1,
+            "Right": 1
+        },
+        "Insertion": {
+            "Left": "\n; ",
+            "Right": "\n; "
+        },
+        "Substitution": "\n; "
+    },
+    {
+        "Position": 31,
+        "Value": "y",
+        "Deletion": {
+            "Left": 0,
+            "Right": 0
+        },
+        "Insertion": {
+            "Left": "\n; ",
+            "Right": "\n "
+        },
+        "Substitution": "eqnvoxfkuzdtjlsibhwparycgm"
+    },
+    {
+        "Position": 32,
+        "Value": "=",
+        "Deletion": {
+            "Left": 0,
+            "Right": 0
+        },
+        "Insertion": {
+            "Left": "\n ",
+            "Right": "8597601243\n "
+        },
+        "Substitution": "+=-<;"
+    },
+    {
+        "Position": 33,
+        "Value": "2",
+        "Deletion": {
+            "Left": 0,
+            "Right": 0
+        },
+        "Insertion": {
+            "Left": "8597601243\n ",
+            "Right": "8597601243\n; "
+        },
+        "Substitution": "859e7q6nvoxf012k4u3zdtjlsibhwparycgm"
+    },
+    {
+        "Position": 34,
+        "Value": ";",
+        "Deletion": {
+            "Left": 0,
+            "Right": 0
+        },
+        "Insertion": {
+            "Left": "8597601243\n; ",
+            "Right": "\n; "
+        },
+        "Substitution": ";"
+    },
+    {
+        "Position": 35,
+        "Value": " ",
+        "Deletion": {
+            "Left": 1,
+            "Right": 1
+        },
+        "Insertion": {
+            "Left": "\n; ",
+            "Right": "\n; "
+        },
+        "Substitution": "\n; "
+    },
+    {
+        "Position": 36,
+        "Value": "}",
+        "Deletion": {
+            "Left": 0,
+            "Right": 0
+        },
+        "Insertion": {
+            "Left": "\n; ",
+            "Right": "\n "
+        },
+        "Substitution": "}"
+    },
+    {
+        "Position": 37,
+        "Value": "\n",
+        "Deletion": {
+            "Left": 1,
+            "Right": 1
+        },
+        "Insertion": {
+            "Left": "\n ",
+            "Right": "\n "
+        },
+        "Substitution": "\n "
+    }
+]

@@ -1,0 +1,8 @@
+#!/bin/bash
+
+### this script is called by the python script 
+### that sits four directories up
+
+Jar=$(realpath lib/antlr-4.13.1-complete.jar)
+
+java -cp tinyc/suts/tinyc/results/:"$Jar":. Driver $1

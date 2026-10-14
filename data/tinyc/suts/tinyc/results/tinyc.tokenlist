@@ -1,0 +1,29 @@
+Final token list (14 tokens):
+  FreeMonoid('0123456789')
+    --> 17 occurrences with 9 different lexemes: ['1', '10', '100', '125', '2', '3', '5', '50', '7']
+  FreeMonoid('\n ')
+    --> 40 occurrences with 2 different lexemes: ['\n', ' ']
+  Keyword('(')
+    --> 8 occurrences with 1 different lexemes: ['(']
+  Keyword(')')
+    --> 8 occurrences with 1 different lexemes: [')']
+  Keyword(';')
+    --> 15 occurrences with 1 different lexemes: [';']
+  Keyword('=')
+    --> 16 occurrences with 1 different lexemes: ['=']
+  Keyword('do')
+    --> 1 occurrences with 1 different lexemes: ['do']
+  Keyword('else')
+    --> 1 occurrences with 1 different lexemes: ['else']
+  Keyword('if')
+    --> 3 occurrences with 1 different lexemes: ['if']
+  Keyword('while')
+    --> 4 occurrences with 1 different lexemes: ['while']
+  Keyword('{')
+    --> 5 occurrences with 1 different lexemes: ['{']
+  Keyword('}')
+    --> 5 occurrences with 1 different lexemes: ['}']
+  Operator('+-<')
+    --> 13 occurrences with 3 different lexemes: ['+', '-', '<']
+  Operator('abcdefghijklmnopqrstuvwxyz')
+    --> 32 occurrences with 7 different lexemes: ['a', 'b', 'c', 'i', 'j', 'x', 'y']

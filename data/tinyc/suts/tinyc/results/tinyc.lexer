@@ -1,0 +1,85 @@
+lexer grammar None_Lexer;
+
+Keyword  : 'do';
+
+Keyword  : 'else';
+
+Keyword  : 'if';
+
+Keyword  : 'while';
+
+Keyword  : '(';
+
+Keyword  : ')';
+
+Keyword  : '+';
+
+Keyword  : '-';
+
+Keyword  : ';';
+
+Keyword  : '<';
+
+Keyword  : '=';
+
+Keyword  : 'a';
+
+Keyword  : 'b';
+
+Keyword  : 'c';
+
+Keyword  : 'd';
+
+Keyword  : 'e';
+
+Keyword  : 'f';
+
+Keyword  : 'g';
+
+Keyword  : 'h';
+
+Keyword  : 'i';
+
+Keyword  : 'j';
+
+Keyword  : 'k';
+
+Keyword  : 'l';
+
+Keyword  : 'm';
+
+Keyword  : 'n';
+
+Keyword  : 'o';
+
+Keyword  : 'p';
+
+Keyword  : 'q';
+
+Keyword  : 'r';
+
+Keyword  : 's';
+
+Keyword  : 't';
+
+Keyword  : 'u';
+
+Keyword  : 'v';
+
+Keyword  : 'w';
+
+Keyword  : 'x';
+
+Keyword  : 'y';
+
+Keyword  : 'z';
+
+Keyword  : '{';
+
+Keyword  : '}';
+
+FreeMonoid  : [ \n][ \n]*;
+
+FreeMonoid  : [0123456789][0123456789]*;
+
+CHAR :  . ;
