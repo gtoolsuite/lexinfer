@@ -23,20 +23,37 @@ version and its reproduction instructions, see the [Zenodo archive](https://doi.
 
 ## Usage
 
-lexinfer has two stages. First, create training JSON by running a syntax-checking
-wrapper for the language under test over a directory of valid source files:
+lexinfer has two stages: training and inference.
+
+### 1. Create training data
+
+Start with a directory of syntactically valid programs. `check_edits.py` makes
+string edits (mutations) to those programs and passes each mutation to a
+wrapper for the SUT. The wrapper must return exit status `0` when a mutation is
+valid. The command writes one JSON training file per input program:
 
 ```bash
 python3 check_edits.py path/to/sut-wrapper path/to/training-dir \
   --threadnum 12 --outdir path/to/training-json-dir
 ```
 
-Then infer a lexer from those JSON files. The command writes
-`<grammar-name>_Lexer.g4` to the current directory:
+The first argument is an executable wrapper around the SUT. The second argument
+is the directory of valid source files. Training is parallel; adjust
+`--threadnum` to suit the machine.
+
+### 2. Infer a lexer
+
+Pass the generated JSON directory to `tokenize_json.py`. It infers lexical
+rules and writes `<grammar-name>_Lexer.g4` to the current directory:
 
 ```bash
 python3 tokenize_json.py path/to/training-json-dir --lex my_language
 ```
+
+The generated ANTLR lexer rule names contain random identifiers, so two runs
+may differ textually even when they infer the same lexical structure.
+
+### 3. Compile the generated lexer (optional)
 
 To generate Java sources for an inferred lexer, replace the example ANTLR JAR
 path and grammar name below as appropriate:
